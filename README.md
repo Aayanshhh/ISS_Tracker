@@ -1,4 +1,4 @@
-# ISS Overhead Notification
+# International Space Station Tracker
 
 This project notifies you via email when the International Space Station (ISS) is overhead at your location and it is nighttime.
 
